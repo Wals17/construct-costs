@@ -1,0 +1,7 @@
+:root { color-scheme: light dark; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #fafafa; color: #111827; }
+input, select, button { padding: 8px; border: 1px solid #e5e7eb; border-radius: 8px; }
+button { background: #0ea5a4; color: white; cursor: pointer; border: none; }
+button:hover { filter: brightness(0.95); }
+table th, table td { padding: 6px; border-bottom: 1px solid #f3f4f6; }
